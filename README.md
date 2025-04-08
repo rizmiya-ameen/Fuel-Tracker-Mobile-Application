@@ -116,4 +116,5 @@ _MSc in Artificial Intelligence – NIBM/Ural Federal University_
 ## 📘 License
 
 All rights reserved © 2025 Rizmiya N.A.P.F.
+
 Distributed under the MIT License.
